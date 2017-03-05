@@ -11,9 +11,8 @@ public class TestDemo1 {
 	public String testDemo(){
 		System.out.println("hello word");
 		String str = "这是测试git提交";
-		String str2 = "这是主干分支的修改";
-		String str3 = "最后一次主干修改";
-		return "hello";
+		String str2 = "主干修改";
+		return "哈哈哈";
 	}
 }
 
