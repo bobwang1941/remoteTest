@@ -12,7 +12,8 @@ public class TestDemo1 {
 		System.out.println("hello word");
 		String str = "这是测试git提交";
 		String str2 = "分支修改";
-		return "啦啦啦";
+		String str3 ="分支合并主干";
+		return "哈哈哈";
 	}
 }
 
