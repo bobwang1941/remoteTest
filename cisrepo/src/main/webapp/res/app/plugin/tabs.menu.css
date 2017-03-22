@@ -1,0 +1,119 @@
+/**
+ * created by kkzhao
+ * 
+ */
+
+.tabs-menu-box .hidden {
+	display: none !important;
+}
+.tabs-menu-box {
+	position: relative;
+	width: 100%;
+	height: 0;
+	padding: 0;
+	margin: 0;
+	background-color: #272C30;
+	background-color: rgba(39, 44, 48, 0.92);
+	overflow: hidden;
+	/* -webkit-transition: height 0.2s cubic-bezier(0, 0, 0.2, 1) 0.2s;
+	-moz-transition: height 0.2s cubic-bezier(0, 0, 0.2, 1) 0.2s;
+	-o-transition: height 0.2s cubic-bezier(0, 0, 0.2, 1) 0.2s;
+	transition: height 0.2s cubic-bezier(0, 0, 0.2, 1) 0.2s; */
+}
+
+.tabs-menu-box.show {
+	height: 250px;
+	z-index: 998;
+}
+
+.tabs-menu {
+	margin: 16px;
+}
+
+.tabs-menu .tabs-menu-header {
+	height: 218px;
+	border-right: 1px #656565 solid;
+	border-right: 1px rgba(255, 255, 255, 0.3) solid;
+	width: 210px;
+	position: relative;
+	display: inline-block;
+	float: left;
+}
+
+.tabs-menu .tabs-menu-header li {
+	list-style-type: none;
+}
+
+.tabs-menu .tabs-menu-link {
+	color: #fff !important;
+	background-color: transparent;
+	line-height: 20px;
+	vertical-align: middle;
+	text-align: right;
+	cursor: pointer;
+	display: inline-block;
+	float: left;
+	position: relative;
+	width: 170px;
+	height: 40px;
+	line-height: 40px;
+	text-align: left;
+	font-size: 16px;
+	color: #fff;
+	z-index: 2;
+	box-sizing: border-box;
+	padding-left: 20px;
+	cursor: default;
+}
+
+.tabs-menu .tabs-menu-link.hover {
+	background-color: #00C1DE;
+}
+
+.tabs-menu .horizontal .tabs-menu-link {
+	text-align: center;
+}
+
+.tabs-menu-content {
+	display: inline-block;
+	position: relative;
+	padding-left: 30px;
+	width: 700px;
+}
+
+.tabs-menu .tabs-menu-target {
+	display: inline-block;
+	width: 320px;
+	height: 60px;
+	margin: 0 10px 10px 0;
+	text-decoration: none;
+	vertical-align: middle;
+	background-color: #4f5356;
+	background-color: rgba(255, 255, 255, 0.1);
+	-webkit-transition: background-color 0.2s;
+	-moz-transition: background-color 0.2s;
+	-o-transition: background-color 0.2s;
+	transition: background-color 0.2s;
+}
+
+.tabs-menu .tabs-menu-target h3 {
+	margin: 11px 0 0 21px;
+	color: #fff;
+	font-size: 14px;
+}
+
+.tabs-menu .tabs-menu-target p {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	margin: 6px 21px 0;
+	color: #a1acb3;
+	font-size: 12px;
+}
+
+.tabs-menu .tabs-menu-target:hover {
+	background-color: #00a2ca;
+}
+.tabs-menu .tabs-menu-target:hover p {
+	color: #ced8de;
+}

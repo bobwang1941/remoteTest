@@ -1,0 +1,73 @@
+{
+	"success" : true,
+	"data" : [{
+				"id" : 1,
+				"buildType" : "Normal",
+				"buildTypeDesc" : "普通"
+			}, {
+				"id" : 2,
+				"buildType" : "Noobfuscator ",
+				"buildTypeDesc" : "代码检查"
+			}, {
+				"id" : 3,
+				"buildType" : "Strictmode",
+				"buildTypeDesc" : "strictmode模式"
+			}, {
+				"id" : 4,
+				"buildType" : "Normaltest",
+				"buildTypeDesc" : "普通测试"
+			}, {
+				"id" : 5,
+				"buildType" : "Osspconfuse",
+				"buildTypeDesc" : "测试混淆"
+			}, {
+				"id" : 6,
+				"buildType" : "Novalidate",
+				"buildTypeDesc" : "自动化测试"
+			}, {
+				"id" : 7,
+				"buildType" : "Servertest",
+				"buildTypeDesc" : "服务器测试"
+			}, {
+				"id" : 8,
+				"buildType" : "Ossptest",
+				"buildTypeDesc" : "测试非混淆"
+			}, {
+				"id" : 9,
+				"buildType" : "Aop",
+				"buildTypeDesc" : "aop"
+			}, {
+				"id" : 10,
+				"buildType" : "Release",
+				"buildTypeDesc" : "发布包"
+			}, {
+				"id" : 11,
+				"buildType" : "FirstRelease",
+				"buildTypeDesc" : "首发包"
+			}, {
+				"id" : 12,
+				"buildType" : "Mock",
+				"buildTypeDesc" : "mock测试包"
+			}, {
+				"id" : 13,
+				"buildType" : "Innertest",
+				"buildTypeDesc" : "内测包"
+			}, {
+				"id" : 14,
+				"buildType" : "imeplugin",
+				"buildTypeDesc" : "输入法插件"
+			}, {
+				"id" : 15,
+				"buildType" : "osspnofus",
+				"buildTypeDesc" : "测试环境未混淆"
+			}, {
+				"id" : 16,
+				"buildType" : "autotest",
+				"buildTypeDesc" : "自动化测试包"
+			}, {
+				"id" : 17,
+				"buildType" : "newuser",
+				"buildTypeDesc" : "新用户版本"
+			}],
+	"errorMessage" : null
+}

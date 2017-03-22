@@ -1,0 +1,28 @@
+{
+	"success" : "true",
+	"errorMessage" : "",
+	"admin" : "true",
+	"data" : [{
+				"name" : "xiangmu",
+				"groupId" : 1,
+				"buildId" : 1,
+				"startTime" : 1489483464053,
+				"endTime" : 1489483464053,
+				"waitTime" : 1000003,
+				"expectedEndTime" : 0,
+				"status" : 3,
+				"builder" : "wang",
+				"projectHref" : null
+			}, {
+				"name" : "xiangmmm",
+				"groupId" : 2,
+				"buildId" : 2,
+				"startTime" : 1489483464053,
+				"endTime" : 1489483464053,
+				"waitTime" : 45,
+				"expectedEndTime" : 0,
+				"status" : 3,
+				"builder" : "wang",
+				"projectHref" : null
+			}]
+}

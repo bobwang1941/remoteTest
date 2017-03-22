@@ -1,0 +1,20 @@
+{
+	"success" : true,
+	"errorMessage": null,
+	"data" : {
+		"totalCount": 4,
+		"items" : [{
+					"target" : "../document/buildFaq.jsp",
+					"text" : "听见司法产品线智能SC项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "持续构建公用平台1.0"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "提交构建；了解项目的基本信息，环境分类；新增组件；对项目信息/RDM信息进行编辑与配置"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "掌上周报教师端新项目构建"
+				}]
+	}
+}

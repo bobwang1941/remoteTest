@@ -1,0 +1,126 @@
+{
+	"success" : "true",
+	"errorMessage" : "",
+	"admin" : "true",
+	"data" : [{
+				"name" : "IME-Android-Branch_test0909.20",
+				"groupId" : 23,
+				"buildId" : 10,
+				"startTime" : 1487735002000,
+				"endTime" : "2017-02-22 11:43:220",
+				"waitTime" : "233332",
+				"status" : 0,
+				"builder" : "王大锤01",
+				"projectHref" : "javascript:void(0)"
+			}, {
+				"name" : "IME-Android-Branch_test0909.21",
+				"groupId" : 23,
+				"buildId" : 11,
+				"startTime" : 1487735002100,
+				"endTime" : 1487735002000,
+				"waitTime" : "233332",
+				"status" : 0,
+				"builder" : "王大锤11",
+				"projectHref" : "javascript:void(0)"
+			}, {
+				"name" : "IME-Android-Branch_test0909.22",
+				"groupId" : 23,
+				"buildId" : 12,
+				"startTime" : 1487735302200,
+				"endTime" : "2017-02-22 11:43:222",
+				"waitTime" : "233332",
+				"status" : 0,
+				"builder" : "王大锤21",
+				"projectHref" : "javascript:void(0)"
+			}, {
+				"name" : "IME-Android-Branch_test0909.23",
+				"groupId" : 23,
+				"buildId" : 13,
+				"startTime" : 1487735002000,
+				"endTime" : "2017-02-22 11:43:223",
+				"waitTime" : "233332",
+				"status" : 0,
+				"builder" : "王大锤31",
+				"projectHref" : "javascript:void(0)"
+			}, {
+				"name" : "IME-Android-Branch_test0909.24",
+				"groupId" : 23,
+				"buildId" : 14,
+				"startTime" : 1487735002000,
+				"endTime" : "2017-02-22 11:43:224",
+				"waitTime" : "233332",
+				"status" : 0,
+				"builder" : "王大锤41",
+				"projectHref" : "javascript:void(0)"
+			}, {
+				"name" : "IME-Android-Branch_test0909.25",
+				"groupId" : 23,
+				"buildId" : 15,
+				"startTime" : 1487735002000,
+				"endTime" : "2017-02-22 11:43:225",
+				"waitTime" : "233332",
+				"status" : 0,
+				"builder" : "王大锤51",
+				"projectHref" : "javascript:void(0)"
+			}, {
+				"name" : "IME-Android-Branch_test0909.26",
+				"groupId" : 23,
+				"buildId" : 16,
+				"startTime" : 1487735002000,
+				"endTime" : "2017-02-22 11:43:226",
+				"waitTime" : "233332",
+				"status" : 0,
+				"builder" : "王大锤61",
+				"projectHref" : "javascript:void(0)"
+			}, {
+				"name" : "IME-Android-Branch_test0909.27",
+				"groupId" : 23,
+				"buildId" : 17,
+				"startTime" : 1487735002000,
+				"endTime" : "2017-02-22 11:43:227",
+				"waitTime" : "233332",
+				"status" : 0,
+				"builder" : "王大锤71",
+				"projectHref" : "javascript:void(0)"
+			}, {
+				"name" : "IME-Android-Branch_test0909.28",
+				"groupId" : 23,
+				"buildId" : 18,
+				"startTime" : 1487735002000,
+				"endTime" : "2017-02-22 11:43:228",
+				"waitTime" : "233332",
+				"status" : 0,
+				"builder" : "王大锤81",
+				"projectHref" : "javascript:void(0)"
+			}, {
+				"name" : "IME-Android-Branch_test0909.29",
+				"groupId" : 23,
+				"buildId" : 19,
+				"startTime" : 1487735002000,
+				"endTime" : "2017-02-22 11:43:229",
+				"waitTime" : "233332",
+				"status" : 0,
+				"builder" : "王大锤91",
+				"projectHref" : "javascript:void(0)"
+			}, {
+				"name" : "IME-Android-Branch_test0909.210",
+				"groupId" : 23,
+				"buildId" : 20,
+				"startTime" : 1487735002000,
+				"endTime" : 1487735002000,
+				"waitTime" : "233332",
+				"status" : 0,
+				"builder" : "王大锤101",
+				"projectHref" : "javascript:void(0)"
+			}, {
+				"name" : "IME-Android-Branch_test0909.211",
+				"groupId" : 23,
+				"buildId" : 21,
+				"startTime" : 1487735002000,
+				"endTime" : 1487735002000,
+				"waitTime" : "233332",
+				"status" : 0,
+				"builder" : "王大锤111",
+				"projectHref" : "javascript:void(0)"
+			}]
+}

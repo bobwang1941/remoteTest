@@ -1,0 +1,9 @@
+{
+	"success" : true,
+	"errorMessage": null,
+	"data" : {
+		"totalCount": 0,
+		"category" : null,
+		"items" : null
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"success" : true,
+	"errorMessage": null,
+	"data" : {
+		"totalCount": 3,
+		"items" : [{
+					"target" : "http://ci.iflytek.com/portal.do",
+					"text" : "持续构建公用平台1.0"
+				}, {
+					"target" : "http://ci.iflytek.com/portal.do",
+					"text" : "提交构建；了解项目的基本信息，环境分类；新增组件；对项目信息/RDM信息进行编辑与配置"
+				}, {
+					"target" : "http://ci.iflytek.com/portal.do",
+					"text" : "掌上周报教师端新项目构建"
+				}]
+	}
+}

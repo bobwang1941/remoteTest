@@ -1,0 +1,51 @@
+.floating_ck {
+	position: fixed;
+	right: 0;
+	bottom: 15%;
+	background-color: rgba(255, 255, 255, 0.71);
+	z-index: 102;
+	box-sizing: border-box;
+}
+
+.floating_ck dl {
+	margin-bottom: 0;
+}
+
+.floating_ck dl dd {
+	margin-bottom: 0;
+	position: relative;
+	width: 45px;
+	height: 45px;
+	border: solid 1px #2e8cfb;
+	border-bottom: 0;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-position: center 20%;
+	cursor: pointer;
+}
+
+.floating_ck .rightImg {
+	width: 100%;
+}
+.floating_ck .tooltip.left .tooltip-arrow {
+	border-left-color: #2e8cfb;
+}
+.floating_right {
+	background-color: rgba(255, 255, 255, 0.71);
+	position: absolute;
+	left: -139px;
+	top: -18px;
+	width: 160px;
+	border: solid 1px #2e8cfb;
+	color: #2e8cfb;
+	line-height: 33px;
+	font-size: 12px;
+	font-weight: 200;
+	border-radius: 5px;
+}
+.qq .floating_right {
+	line-height: 40px;
+}
+.floating_ck dl dd.weixin {
+	border: solid 1px #2e8cfb;
+}

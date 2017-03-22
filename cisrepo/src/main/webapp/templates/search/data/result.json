@@ -1,0 +1,155 @@
+{
+	"success" : true,
+	"errorMessage": null,
+	"data" : {
+		"totalCount": 42,
+		"category" : [{
+			"title": "全部",
+			"count": 42,
+			"query": "all"
+		},{
+			"title": "构建",
+			"count": 12,
+			"query": "build"
+		},{
+			"title": "发布",
+			"count": 23,
+			"query": "delivery"
+		},{
+			"title": "FAQ",
+			"count": 4,
+			"query": "faq"
+		},{
+			"title": "解决方案",
+			"count": 3,
+			"query": "document"
+		}],
+		"items" : [{
+					"target" : "../document/buildFaq.jsp",
+					"text" : "提交构建；了解项目的基本信息，环境分类；新增组件；对项目信息/RDM信息进行编辑与配置"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "掌上周报教师端新项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "听见司法产品线智能SC项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "持续构建公用平台1.0"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "提交构建；了解项目的基本信息，环境分类；新增组件；对项目信息/RDM信息进行编辑与配置"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "掌上周报教师端新项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "听见司法产品线智能SC项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "持续构建公用平台1.0"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "提交构建；了解项目的基本信息，环境分类；新增组件；对项目信息/RDM信息进行编辑与配置"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "掌上周报教师端新项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "新建子版本时构建号递增与该多组件项目组构建时的构建号递增保持一致，且子版本新建过的构建号，多组件项目组构建时会自动跳过这个构建号，即版本计划中新建子版本的构建号只能走版本计划的构建时才能被使用。"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "渠道构建增加webhook通知测试服务器"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "听见司法产品线智能SC项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "持续构建公用平台1.0"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "提交构建；了解项目的基本信息，环境分类；新增组件；对项目信息/RDM信息进行编辑与配置"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "掌上周报教师端新项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "听见司法产品线智能SC项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "持续构建公用平台1.0"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "提交构建；了解项目的基本信息，环境分类；新增组件；对项目信息/RDM信息进行编辑与配置"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "掌上周报教师端新项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "新建子版本时构建号递增与该多组件项目组构建时的构建号递增保持一致，且子版本新建过的构建号，多组件项目组构建时会自动跳过这个构建号，即版本计划中新建子版本的构建号只能走版本计划的构建时才能被使用。"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "渠道构建增加webhook通知测试服务器"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "听见司法产品线智能SC项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "持续构建公用平台1.0"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "提交构建；了解项目的基本信息，环境分类；新增组件；对项目信息/RDM信息进行编辑与配置"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "掌上周报教师端新项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "听见司法产品线智能SC项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "持续构建公用平台1.0"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "提交构建；了解项目的基本信息，环境分类；新增组件；对项目信息/RDM信息进行编辑与配置"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "掌上周报教师端新项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "新建子版本时构建号递增与该多组件项目组构建时的构建号递增保持一致，且子版本新建过的构建号，多组件项目组构建时会自动跳过这个构建号，即版本计划中新建子版本的构建号只能走版本计划的构建时才能被使用。"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "渠道构建增加webhook通知测试服务器"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "听见司法产品线智能SC项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "持续构建公用平台1.0"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "提交构建；了解项目的基本信息，环境分类；新增组件；对项目信息/RDM信息进行编辑与配置"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "掌上周报教师端新项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "听见司法产品线智能SC项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "持续构建公用平台1.0"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "提交构建；了解项目的基本信息，环境分类；新增组件；对项目信息/RDM信息进行编辑与配置"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "掌上周报教师端新项目构建"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "提交构建；了解项目的基本信息，环境分类；新增组件；对项目信息/RDM信息进行编辑与配置"
+				}, {
+					"target" : "../document/buildFaq.jsp",
+					"text" : "掌上周报教师端新项目构建"
+				}]
+	}
+}

@@ -1,0 +1,162 @@
+.crp-schedule-flow {
+	display: block;
+	min-width: 400px;
+	vertical-align: middle;
+	position: relative;
+	overflow-x: auto;
+	overflow-y: hidden;
+}
+
+.crp-schedule-container {
+	height: 75px;
+	overflow: hidden;
+	margin: 70px auto;
+}
+
+.crp-schedule-end, .crp-schedule-start {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	border: 1px solid #ccc;
+	background-color: #fff;
+	float: left;
+	margin-top: 25px;
+	padding: 3px;
+	color: #ccc;
+	font: normal normal normal 14px/1 FontAwesome;
+	text-align: center;
+	font-size: 1.25rem;
+	position: relative;
+}
+
+.crp-schedule-start:before {
+	content: "\f007";
+}
+.crp-schedule-end:before {
+	content: "\f00c";
+}
+
+.crp-schedule-end {
+	background-color: #ccc;
+	color: #ccc;
+}
+.crp-schedule-start.active,
+.crp-schedule-end.active {
+	color: #fff;
+	border: 1px solid #3789d0;
+	background-color: #3789d0;
+}
+.crp-schedule-end.active {
+	cursor: pointer;
+}
+.crp-schedule-end a.repeat {
+	display: none;
+}
+
+.crp-schedule-end.active:hover a.repeat {
+	display: inline-block;
+	background-color: #ff9800;
+	border: 1px solid #ff9800;
+	color: #fff;
+	position: absolute;
+	height: 30px;
+	width: 30px;
+	left: -1px;
+	top: -1px;
+	border-radius: 50%;
+	line-height: 30px;
+}
+
+.crp-schedule-arrow {
+	display: inline-block;
+	font: normal normal normal 14px/1 FontAwesome;
+	font-size: inherit;
+	text-rendering: auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	float: left;
+	font-size: 2rem;
+	color: #ccc;
+	margin: auto 2px;
+	margin-top: 25px;
+}
+
+.crp-schedule-arrow:before {
+	content: "\f178";
+}
+
+.crp-schedule-step {
+	height: 75px;
+	width: 140px;
+	border: 1px solid #ccc;
+	float: left;
+	position: relative;
+	display: inline-block;
+	font-size: medium;
+}
+
+.crp-schedule-step .crp-schedule-step-title {
+	background-color: #ccc;
+	color: #fff;
+	height: 30px;
+	font-size: .875rem;
+	display: block;
+	padding: 4px 6px;
+}
+
+.crp-schedule-step.highlight {
+	border: 1px solid #FF9800;
+}
+
+.crp-schedule-step.highlight .crp-schedule-step-title {
+	background-color: #FF9800;
+}
+
+.crp-schedule-step.active {
+	border: 1px solid #3789d0;
+}
+
+.crp-schedule-step.active .crp-schedule-step-title {
+	background-color: #3789d0;
+}
+
+.crp-schedule-step.danger {
+	border: 1px solid red;
+}
+
+.crp-schedule-step.danger .crp-schedule-step-title {
+	background-color: red;
+}
+
+.crp-schedule-step .crp-schedule-step-content {
+	font-size: .75rem;
+	padding: 4px 6px;
+}
+
+.crp-schedule-action.fa {
+	border: 1px solid #a0a5a1;
+	height: 25px;
+	width: 25px;
+	line-height: 14px;
+	display: inline-block;
+	text-align: center;
+	border-radius: 50%;
+	color: #ff0707;
+	padding: 5px;
+	vertical-align: middle;
+	position: absolute;
+	left: 51px;
+	top: 38px;
+}
+
+.crp-schedule-step.highlight + .crp-schedule-arrow + .crp-schedule-step.default .crp-schedule-action.fa,
+.crp-schedule-step.default + .crp-schedule-arrow + .crp-schedule-step.default .crp-schedule-action.fa,
+.crp-schedule-step.danger .crp-schedule-step-content .crp-schedule-action.fa,
+.crp-schedule-step.active .crp-schedule-step-content .crp-schedule-action.fa {
+	display: none;
+}
+.crp-schedule-container .danger + .crp-schedule-arrow,
+.crp-schedule-container .active + .crp-schedule-arrow {
+	color: #3789d0;
+}

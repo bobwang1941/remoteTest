@@ -1,0 +1,39 @@
+.crp-footer {
+	width: 100%;
+	min-width: 1200px;
+	background-color: #1a191a;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+    bottom: 0;
+    position: absolute;
+}
+
+.crp-footer > div.copyright {
+	line-height: 30px;
+	font-size: 16px;
+	color: #686a6c;
+	padding: 24px 0;
+	text-align: center;
+}
+.crp-footer .footer-links  {
+	clear: both;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 0;
+	border-bottom: 1px solid #656973;
+}
+.crp-footer .footer-links ul {
+	padding-left: 0;
+}
+footer .footer-links li {
+    float: left;
+    margin: 0 48px 0 0;
+    font-size: 14px;
+}
+footer a,
+footer a:visited,
+footer a:link,
+footer a:hover {
+    color: #686a6c;
+}

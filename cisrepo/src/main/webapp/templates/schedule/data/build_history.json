@@ -1,0 +1,50 @@
+{
+	"success" : "true",
+	"errorMessage" : "",
+	"admin" : "true",
+	"data" : [{
+				"name" : "xiangmu",
+				"groupId" : 1,
+				"buildId" : 1,
+				"startTime" : 20170313195540,
+				"endTime" : 1489474176360,
+				"waitTime" : 18680839019180,
+				"expectedEndTime" : 0,
+				"status" : 2,
+				"builder" : "wang",
+				"projectHref" : null
+			}, {
+				"name" : "xiangmmm",
+				"groupId" : 2,
+				"buildId" : 2,
+				"startTime" : 20170313195655,
+				"endTime" : 1489474176360,
+				"waitTime" : 18680839019295,
+				"expectedEndTime" : 0,
+				"status" : 4,
+				"builder" : "wang",
+				"projectHref" : null
+			}, {
+				"name" : "xiangmmm",
+				"groupId" : 2,
+				"buildId" : 1,
+				"startTime" : 1489474176360,
+				"endTime" : 1489474176360,
+				"waitTime" : 0,
+				"expectedEndTime" : 0,
+				"status" : 1,
+				"builder" : "wang",
+				"projectHref" : null
+			}, {
+				"name" : "xiangmmm",
+				"groupId" : 2,
+				"buildId" : 1,
+				"startTime" : 1489474176360,
+				"endTime" : 1489474176360,
+				"waitTime" : 0,
+				"expectedEndTime" : 0,
+				"status" : -1,
+				"builder" : "zhou",
+				"projectHref" : null
+			}]
+}

@@ -1,0 +1,245 @@
+{
+	"data" : [{
+		"groupId" : 1,
+		"groupName" : "教育BG",
+		"list" : [{
+					"cnname" : "小微企业助手1.0视频方向微逼格",
+					"time" : "2017-02-12 13:54:10",
+					"username" : "杨培根（pgyang）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "MEA1.0-video-vbigger"
+				}, {
+					"cnname" : "综合管理音频转写孵化项目开发环境",
+					"time" : "2017-02-12 17:13:10",
+					"username" : "左慢慢（mmzuo）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZongHeGuanLi-YYZX-DEV"
+				}, {
+					"cnname" : "智学网基础服务组应用程序PortalcenterTest",
+					"time" : "2017-02-13 12:20:10",
+					"username" : "赵坤坤（kkzhao）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.BasicServiceGroup-Application.TEST-Portalcenter.TEST"
+				}, {
+					"cnname" : "智学网基础服务组应用程序",
+					"time" : "2017-02-12 10:10:10",
+					"username" : "林娜（nalin）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.BasicServiceGroup-Application.TEST-Portalcenter.PRETEST"
+				}, {
+					"cnname" : "智学网基础服务组基础服务测试环境",
+					"time" : "2017-02-13 18:10:10",
+					"username" : "刘雅丽（ylliu6）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.BasicServiceGroup-BaseService-Missionsys.Service.TEST"
+				}, {
+					"cnname" : "智学网知学宝应用测试环境",
+					"time" : "2017-02-15 17:17:10",
+					"username" : "江冬冬（ddjiang）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.ZhiXueBao-Application.Test-Zxb.Admin.TEST"
+				}, {
+					"cnname" : "智学网知学宝应用预测试环境",
+					"time" : "2017-02-15 12:18:10",
+					"username" : "王自强（zqwang）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.ZhiXueBao-Application.Tag-Zxb.Admin.PRETEST"
+				}, {
+					"cnname" : "智学网知学应用测试环境",
+					"time" : "2017-02-15 12:17:10",
+					"username" : "薛帅（shuaixue）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.ZhiXueBao-Application.Tag-Zxb.Admin"
+				}]
+	}, {
+		"groupId" : 2,
+		"groupName" : "技术中心",
+		"list" : [{
+					"cnname" : "小微企业助手1.0视频方向微逼格",
+					"time" : "2017-02-12 13:54:10",
+					"username" : "杨培根（pgyang）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "MEA1.0-video-vbigger"
+				}, {
+					"cnname" : "综合管理音频转写孵化项目开发环境",
+					"time" : "2017-02-12 17:13:10",
+					"username" : "左慢慢（mmzuo）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZongHeGuanLi-YYZX-DEV"
+				}, {
+					"cnname" : "华为定制分支4135",
+					"time" : "2017-02-12 02:40:10",
+					"username" : "陈杰（jiechen4）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "IME-Android.OEM-Branch_FlyIME.OEM.4135.Huawei"
+				}, {
+					"cnname" : "智学网基础服务组应用程序",
+					"time" : "2017-02-12 10:10:10",
+					"username" : "林娜（nalin）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.BasicServiceGroup-Application.TEST-Portalcenter.PRETEST"
+				}, {
+					"cnname" : "智学网基础服务组基础服务测试环境",
+					"time" : "2017-02-13 18:10:10",
+					"username" : "刘雅丽（ylliu6）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.BasicServiceGroup-BaseService-Missionsys.Service.TEST"
+				}, {
+					"cnname" : "智学网知学宝应用测试环境",
+					"time" : "2017-02-15 17:17:10",
+					"username" : "江冬冬（ddjiang）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.ZhiXueBao-Application.Test-Zxb.Admin.TEST"
+				}, {
+					"cnname" : "智学网知学宝应用预测试环境",
+					"time" : "2017-02-15 12:18:10",
+					"username" : "王自强（zqwang）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.ZhiXueBao-Application.Tag-Zxb.Admin.PRETEST"
+				}, {
+					"cnname" : "智学网知学应用测试环境",
+					"time" : "2017-02-15 12:17:10",
+					"username" : "薛帅（shuaixue）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.ZhiXueBao-Application.Tag-Zxb.Admin"
+				}]
+	}, {
+		"groupId" : 3,
+		"groupName" : "公共安全BG",
+		"list" : [{
+					"cnname" : "小微企业助手1.0视频方向微逼格",
+					"time" : "2017-02-12 13:54:10",
+					"username" : "杨培根（pgyang）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "MEA1.0-video-vbigger"
+				}, {
+					"cnname" : "综合管理音频转写孵化项目开发环境",
+					"time" : "2017-02-12 17:13:10",
+					"username" : "左慢慢（mmzuo）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZongHeGuanLi-YYZX-DEV"
+				}, {
+					"cnname" : "华为定制分支4135",
+					"time" : "2017-02-12 02:40:10",
+					"username" : "陈杰（jiechen4）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "IME-Android.OEM-Branch_FlyIME.OEM.4135.Huawei"
+				}, {
+					"cnname" : "智学网基础服务组应用程序",
+					"time" : "2017-02-12 10:10:10",
+					"username" : "林娜（nalin）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.BasicServiceGroup-Application.TEST-Portalcenter.PRETEST"
+				}, {
+					"cnname" : "智学网基础服务组基础服务测试环境",
+					"time" : "2017-02-13 18:10:10",
+					"username" : "刘雅丽（ylliu6）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.BasicServiceGroup-BaseService-Missionsys.Service.TEST"
+				}, {
+					"cnname" : "智学网知学宝应用测试环境",
+					"time" : "2017-02-15 17:17:10",
+					"username" : "江冬冬（ddjiang）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.ZhiXueBao-Application.Test-Zxb.Admin.TEST"
+				}, {
+					"cnname" : "智学网知学宝应用预测试环境",
+					"time" : "2017-02-15 12:18:10",
+					"username" : "王自强（zqwang）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.ZhiXueBao-Application.Tag-Zxb.Admin.PRETEST"
+				}, {
+					"cnname" : "智学网知学应用测试环境",
+					"time" : "2017-02-15 12:17:10",
+					"username" : "薛帅（shuaixue）",
+					"badges" : "build sonar",
+					"detail" : "config.jsp",
+					"id" : "ZXW.ZhiXueBao-Application.Tag-Zxb.Admin"
+				}]
+	},{
+		"groupId": 4,
+		"groupName": "智慧城市BG",
+		"list": [{
+				"cnname" : "小微企业助手1.0视频方向微逼格",
+				"time" : "2017-02-12 13:54:10",
+				"username" : "杨培根（pgyang）",
+				"badges": "build sonar",
+				"detail": "config.jsp",
+				"id" : "MEA1.0-video-vbigger"
+			}, {
+				"cnname" : "持续集成测试环境",
+				"time" : "2017-02-14 10:19:10",
+				"username" : "马蕴智（yzma）",
+				"badges": "build",
+				"detail": "config.jsp",
+				"id" : "CIS-CI-TEST"
+			}, {
+				"cnname" : "华为定制分支4135",
+				"time" : "2017-02-12 02:40:10",
+				"username" : "陈杰（jiechen4）",
+				"badges": "build sonar",
+				"detail": "config.jsp",
+				"id" : "IME-Android.OEM-Branch_FlyIME.OEM.4135.Huawei"
+			}, {
+				"cnname" : "智学网基础服务组应用程序",
+				"time" : "2017-02-12 10:10:10",
+				"username" : "林娜（nalin）",
+				"badges": "build sonar",
+				"detail": "config.jsp",
+				"id" : "ZXW.BasicServiceGroup-Application.TEST-Portalcenter.PRETEST"
+			}, {
+				"cnname" : "智学网基础服务组基础服务测试环境",
+				"time" : "2017-02-13 18:10:10",
+				"username" : "刘雅丽（ylliu6）",
+				"badges": "build sonar",
+				"detail": "config.jsp",
+				"id" : "ZXW.BasicServiceGroup-BaseService-Missionsys.Service.TEST"
+			}, {
+				"cnname" : "智学网知学宝应用测试环境",
+				"time" : "2017-02-15 17:17:10",
+				"username" : "江冬冬（ddjiang）",
+				"badges": "build sonar",
+				"detail": "config.jsp",
+				"id" : "ZXW.ZhiXueBao-Application.Test-Zxb.Admin.TEST"
+			}, {
+				"cnname" : "智学网知学宝应用预测试环境",
+				"time" : "2017-02-15 12:18:10",
+				"username" : "王自强（zqwang）",
+				"badges": "build sonar",
+				"detail": "config.jsp",
+				"id" : "ZXW.ZhiXueBao-Application.Tag-Zxb.Admin.PRETEST"
+			}, {
+				"cnname" : "智学网知学应用测试环境",
+				"time" : "2017-02-15 12:17:10",
+				"username" : "薛帅（shuaixue）",
+				"badges": "build sonar",
+				"detail": "config.jsp",
+				"id" : "ZXW.ZhiXueBao-Application.Tag-Zxb.Admin"
+			}]
+	}],
+	"success" : true,
+	"errorMessage" : null
+}

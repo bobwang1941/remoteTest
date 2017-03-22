@@ -1,0 +1,130 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body[data-top-flag=true] {
+	height: 100%;
+	width: 100%;
+	padding-top: 60px;
+	overflow: hidden;
+	background:#eee;
+	font-size: 14px;
+	color: #555;
+	position: relative;
+	min-width: 600px;
+	font-family: "Helvetica Neue", "PingFang SC", "Microsoft Yahei", 微软雅黑,
+		STXihei, 华文细黑, sans-serif;
+}
+.main {
+	display: block;
+	padding: 20px 0 40px;
+	height: 100%;
+	overflow-y: scroll;
+}
+.crp-panel-section:nth-child(odd) {
+	background:#f5f5f5;
+}
+.crp-panel-section:nth-child(even) {
+	background:#f9f9f9;
+}
+/* breadcrumb */
+.main .breadcrumb-box {
+	width: 90%;
+	margin: 0 auto;
+}
+/* side menu */
+.crp-panel-menu {
+	width: 88px;
+	height: auto;
+	position: fixed;
+	top: 270px;
+	left: 2%;
+	margin-top: -135px;
+}
+
+.crp-panel-menu ul {
+	display: block;
+	list-style: none
+}
+
+.crp-panel-menu ul li a {
+	width: 54px;
+	height: 54px;
+	font-size: 30px;
+	line-height: 54px;
+	text-align: center;
+	background-color: #fff;
+	color: #0080ff;
+	display: block
+}
+
+.crp-panel-menu ul li a:hover, .crp-panel-menu ul li a.cur {
+	background-color: #0080ff;
+	color: #fff;
+}
+/* panel */
+.crp-panel {
+	display: block;
+	min-height: 60px;
+	background: #fff;
+	vertical-align: middle;
+	padding: 16px 16px 0 16px;
+	width: 84%;
+	margin-left: 11%;
+	margin-top: 20px;
+}
+.crp-panel.collapsed {
+	height: 40px;
+	overflow: hidden;
+}
+.crp-panel-title {
+	font-size: 24px;
+	margin-bottom: 14px;
+}
+.crp-panel-title .fa {
+	padding-right: 6px;
+}
+.crp-panel .fa-spinner,
+.crp-panel .glyphicon-exclamation-sign,
+.crp-panel .fa-ban,
+.crp-panel .fa-check,
+.crp-panel .fa-times {
+	font-size: 16px;
+}
+.crp-panel .fa-times {
+	color: red;
+	font-size: 20px;
+}
+.crp-panel .fa-ban {
+	color: gray;
+}
+.crp-panel .fa-check {
+	color: #0066fe;
+	font-size: 20px;
+}
+.crp-panel .glyphicon-exclamation-sign {
+	color: #caca03;
+}
+.crp-collapse-link {
+	float: right;
+	margin-right: 20px;
+	margin-top: 5px;
+}
+a.stop-build {
+	border: 1px solid #a0a5a1;
+	height: 25px;
+	width: 25px;
+	line-height: 22px;
+	display: inline-block;
+	text-align: center;
+	border-radius: 50%;
+	color: #ff0707;
+}
+a.cancel-build .fa {
+	font-size: 25px;
+	color: #ff0707;
+}
+a.stop-build:hover {
+	color: #ff0707;
+}
